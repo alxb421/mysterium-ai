@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset
+		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+		xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+		<!-- English (default) -->
+		<url>
+		  <loc>https://ong.mysterium-ai.com/</loc>
+		  <xhtml:link rel="alternate" hreflang="en" href="https://ong.mysterium-ai.com/" />
+		  <xhtml:link rel="alternate" hreflang="ro" href="https://ong.mysterium-ai.com/ro" />
+		  <xhtml:link rel="alternate" hreflang="es" href="https://ong.mysterium-ai.com/es" />
+		  <xhtml:link rel="alternate" hreflang="fr" href="https://ong.mysterium-ai.com/fr" />
+		  <xhtml:link rel="alternate" hreflang="de" href="https://ong.mysterium-ai.com/de" />
+		  <xhtml:link rel="alternate" hreflang="it" href="https://ong.mysterium-ai.com/it" />
+		  <xhtml:link rel="alternate" hreflang="x-default" href="https://ong.mysterium-ai.com/" />
+		  <priority>1.0</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<!-- Romanian -->
+		<url>
+		  <loc>https://ong.mysterium-ai.com/ro</loc>
+		  <xhtml:link rel="alternate" hreflang="en" href="https://ong.mysterium-ai.com/" />
+		  <xhtml:link rel="alternate" hreflang="ro" href="https://ong.mysterium-ai.com/ro" />
+		  <xhtml:link rel="alternate" hreflang="es" href="https://ong.mysterium-ai.com/es" />
+		  <xhtml:link rel="alternate" hreflang="fr" href="https://ong.mysterium-ai.com/fr" />
+		  <xhtml:link rel="alternate" hreflang="de" href="https://ong.mysterium-ai.com/de" />
+		  <xhtml:link rel="alternate" hreflang="it" href="https://ong.mysterium-ai.com/it" />
+		  <xhtml:link rel="alternate" hreflang="x-default" href="https://ong.mysterium-ai.com/" />
+		  <priority>1.0</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<!-- Spanish -->
+		<url>
+		  <loc>https://ong.mysterium-ai.com/es</loc>
+		  <xhtml:link rel="alternate" hreflang="en" href="https://ong.mysterium-ai.com/" />
+		  <xhtml:link rel="alternate" hreflang="ro" href="https://ong.mysterium-ai.com/ro" />
+		  <xhtml:link rel="alternate" hreflang="es" href="https://ong.mysterium-ai.com/es" />
+		  <xhtml:link rel="alternate" hreflang="fr" href="https://ong.mysterium-ai.com/fr" />
+		  <xhtml:link rel="alternate" hreflang="de" href="https://ong.mysterium-ai.com/de" />
+		  <xhtml:link rel="alternate" hreflang="it" href="https://ong.mysterium-ai.com/it" />
+		  <xhtml:link rel="alternate" hreflang="x-default" href="https://ong.mysterium-ai.com/" />
+		  <priority>1.0</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<!-- French -->
+		<url>
+		  <loc>https://ong.mysterium-ai.com/fr</loc>
+		  <xhtml:link rel="alternate" hreflang="en" href="https://ong.mysterium-ai.com/" />
+		  <xhtml:link rel="alternate" hreflang="ro" href="https://ong.mysterium-ai.com/ro" />
+		  <xhtml:link rel="alternate" hreflang="es" href="https://ong.mysterium-ai.com/es" />
+		  <xhtml:link rel="alternate" hreflang="fr" href="https://ong.mysterium-ai.com/fr" />
+		  <xhtml:link rel="alternate" hreflang="de" href="https://ong.mysterium-ai.com/de" />
+		  <xhtml:link rel="alternate" hreflang="it" href="https://ong.mysterium-ai.com/it" />
+		  <xhtml:link rel="alternate" hreflang="x-default" href="https://ong.mysterium-ai.com/" />
+		  <priority>1.0</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<!-- German -->
+		<url>
+		  <loc>https://ong.mysterium-ai.com/de</loc>
+		  <xhtml:link rel="alternate" hreflang="en" href="https://ong.mysterium-ai.com/" />
+		  <xhtml:link rel="alternate" hreflang="ro" href="https://ong.mysterium-ai.com/ro" />
+		  <xhtml:link rel="alternate" hreflang="es" href="https://ong.mysterium-ai.com/es" />
+		  <xhtml:link rel="alternate" hreflang="fr" href="https://ong.mysterium-ai.com/fr" />
+		  <xhtml:link rel="alternate" hreflang="de" href="https://ong.mysterium-ai.com/de" />
+		  <xhtml:link rel="alternate" hreflang="it" href="https://ong.mysterium-ai.com/it" />
+		  <xhtml:link rel="alternate" hreflang="x-default" href="https://ong.mysterium-ai.com/" />
+		  <priority>1.0</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<!-- Italian -->
+		<url>
+		  <loc>https://ong.mysterium-ai.com/it</loc>
+		  <xhtml:link rel="alternate" hreflang="en" href="https://ong.mysterium-ai.com/" />
+		  <xhtml:link rel="alternate" hreflang="ro" href="https://ong.mysterium-ai.com/ro" />
+		  <xhtml:link rel="alternate" hreflang="es" href="https://ong.mysterium-ai.com/es" />
+		  <xhtml:link rel="alternate" hreflang="fr" href="https://ong.mysterium-ai.com/fr" />
+		  <xhtml:link rel="alternate" hreflang="de" href="https://ong.mysterium-ai.com/de" />
+		  <xhtml:link rel="alternate" hreflang="it" href="https://ong.mysterium-ai.com/it" />
+		  <xhtml:link rel="alternate" hreflang="x-default" href="https://ong.mysterium-ai.com/" />
+		  <priority>1.0</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<!-- Portfolio Pages -->
+		<url>
+		  <loc>https://ong.mysterium-ai.com/portfolio</loc>
+		  <priority>0.8</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<url>
+		  <loc>https://ong.mysterium-ai.com/ro/portfolio</loc>
+		  <priority>0.8</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<url>
+		  <loc>https://ong.mysterium-ai.com/es/portfolio</loc>
+		  <priority>0.8</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<url>
+		  <loc>https://ong.mysterium-ai.com/fr/portfolio</loc>
+		  <priority>0.8</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<url>
+		  <loc>https://ong.mysterium-ai.com/de/portfolio</loc>
+		  <priority>0.8</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+		<url>
+		  <loc>https://ong.mysterium-ai.com/it/portfolio</loc>
+		  <priority>0.8</priority>
+		  <changefreq>weekly</changefreq>
+		</url>
+	</urlset>

@@ -1,0 +1,117 @@
+[
+    {
+        "_id": "6865cbb46f495c0d5af2b0bf",
+        "title": {
+            "en": "Golden Sunrise Blenddd",
+            "ro": "Blend Răsărit Auriu",
+            "es": "Mezcla Amanecer Dorado",
+            "fr": "Mélange Lever du Soleil Doré",
+            "de": "Goldener Sonnenaufgang Mischung",
+            "it": "Miscela Alba Dorata"
+        },
+        "description": {
+            "en": "Our signature blend infused with 24k edible gold. Premium Arabica beans from Ethiopian highlands create a complex, fruity profile with hints of bergamot and jasmine. Each purchase contributes 15% to La Fontana Della Fortuna's education programs.",
+            "ro": "Blend-ul nostru emblematic infuzat cu aur comestibil de 24k. Boabe premium Arabica din regiunile montane etiopiene creează un profil complex, fructat cu note de bergamotă și iasomie. Fiecare achiziție contribuie cu 15% la programele educaționale La Fontana Della Fortuna.",
+            "es": "Nuestra mezcla insignia infusionada con oro comestible de 24k. Granos Arábica premium de las tierras altas etíopes crean un perfil complejo y afrutado con toques de bergamota y jazmín. Cada compra contribuye con 15% a los programas educativos de La Fontana Della Fortuna.",
+            "fr": "Notre mélange signature infusé avec de l'or comestible 24 carats. Des grains Arabica premium des hautes terres éthiopiennes créent un profil complexe et fruité avec des notes de bergamote et de jasmin. Chaque achat contribue à hauteur de 15% aux programmes éducatifs de La Fontana Della Fortuna.",
+            "de": "Unsere charakteristische Mischung mit 24-karätigem essbarem Gold. Premium-Arabica-Bohnen aus dem äthiopischen Hochland erzeugen ein komplexes, fruchtiges Profil mit Noten von Bergamotte und Jasmin. Jeder Kauf trägt 15% zu den Bildungsprogrammen von La Fontana Della Fortuna bei.",
+            "it": "La nostra miscela esclusiva infusa con oro commestibile 24k. Chicchi Arabica premium degli altipiani etiopi creano un profilo complesso e fruttato con note di bergamotto e gelsomino. Ogni acquisto contribuisce al 15% ai programmi educativi di La Fontana Della Fortuna."
+        },
+        "clientName": "MYSTERIUM Collection",
+        "type": "premium blend",
+        "media": [
+            {
+                "url": ".\/uploads\/punga.jpeg",
+                "type": "image",
+                "order": 1
+            },
+            {
+                "url": ".\/uploads\/pachet.jpeg",
+                "type": "image",
+                "order": 2
+            },
+            {
+                "url": ".\/uploads\/punga_premium.jpeg",
+                "type": "image",
+                "order": 3
+            }
+        ],
+        "date": "2025-02-04T00:00:00.000Z",
+        "visible": true
+    },
+    {
+        "_id": "6865ca946f495c0d5af2b0be",
+        "title": {
+            "en": "Midnight Velvet Reserve",
+            "ro": "Rezerva Catifea de Miezul Nopții",
+            "es": "Reserva Terciopelo de Medianoche",
+            "fr": "Réserve Velours de Minuit",
+            "de": "Mitternachts-Samt-Reserve",
+            "it": "Riserva Velluto di Mezzanotte"
+        },
+        "description": {
+            "en": "Dark roast excellence with 24k gold shimmer. Colombian and Brazilian beans aged for 60 days create deep chocolate notes with caramel undertones. 20% of proceeds support La Fontana Della Fortuna's healthcare initiatives.",
+            "ro": "Excelență în prăjire închisă cu strălucire de aur 24k. Boabe columbiene și braziliene maturate 60 de zile creează note profunde de ciocolată cu nuanțe de caramel. 20% din venituri susțin inițiativele de sănătate La Fontana Della Fortuna.",
+            "es": "Excelencia en tueste oscuro con brillo de oro 24k. Granos colombianos y brasileños envejecidos durante 60 días crean notas profundas de chocolate con matices de caramelo. El 20% de las ganancias apoya las iniciativas de salud de La Fontana Della Fortuna.",
+            "fr": "Excellence torréfiée foncée avec éclat d'or 24 carats. Des grains colombiens et brésiliens vieillis pendant 60 jours créent de profondes notes de chocolat avec des nuances de caramel. 20% des recettes soutiennent les initiatives de santé de La Fontana Della Fortuna.",
+            "de": "Exzellenz der dunklen Röstung mit 24-Karat-Goldglanz. Kolumbianische und brasilianische Bohnen, 60 Tage gereift, erzeugen tiefe Schokoladennoten mit Karamelluntertönen. 20% der Einnahmen unterstützen die Gesundheitsinitiativen von La Fontana Della Fortuna.",
+            "it": "Eccellenza di tostatura scura con brillantezza d'oro 24k. Chicchi colombiani e brasiliani invecchiati per 60 giorni creano profonde note di cioccolato con sfumature di caramello. Il 20% dei ricavi sostiene le iniziative sanitarie di La Fontana Della Fortuna."
+        },
+        "clientName": "MYSTERIUM Collection",
+        "type": "dark roast",
+        "media": [
+            {
+                "url": ".\/uploads\/kapsula.jpeg",
+                "type": "image",
+                "order": 1
+            },
+            {
+                "url": ".\/uploads\/kapsula_rosu.jpeg",
+                "type": "image",
+                "order": 2
+            }
+        ],
+        "date": "2024-10-10T00:00:00.000Z",
+        "visible": true
+    },
+    {
+        "_id": "6865ca946f495c0d5af2b0bc",
+        "title": {
+            "en": "Midnight Velvet Reserve",
+            "ro": "Rezerva Catifea de Miezul Nopții",
+            "es": "Reserva Terciopelo de Medianoche",
+            "fr": "Réserve Velours de Minuit",
+            "de": "Mitternachts-Samt-Reserve",
+            "it": "Riserva Velluto di Mezzanotte"
+        },
+        "description": {
+            "en": "Dark roast excellence with 24k gold shimmer. Colombian and Brazilian beans aged for 60 days create deep chocolate notes with caramel undertones. 20% of proceeds support La Fontana Della Fortuna's healthcare initiatives.",
+            "ro": "Excelență în prăjire închisă cu strălucire de aur 24k. Boabe columbiene și braziliene maturate 60 de zile creează note profunde de ciocolată cu nuanțe de caramel. 20% din venituri susțin inițiativele de sănătate La Fontana Della Fortuna.",
+            "es": "Excelencia en tueste oscuro con brillo de oro 24k. Granos colombianos y brasileños envejecidos durante 60 días crean notas profundas de chocolate con matices de caramelo. El 20% de las ganancias apoya las iniciativas de salud de La Fontana Della Fortuna.",
+            "fr": "Excellence torréfiée foncée avec éclat d'or 24 carats. Des grains colombiens et brésiliens vieillis pendant 60 jours créent de profondes notes de chocolat avec des nuances de caramel. 20% des recettes soutiennent les initiatives de santé de La Fontana Della Fortuna.",
+            "de": "Exzellenz der dunklen Röstung mit 24-Karat-Goldglanz. Kolumbianische und brasilianische Bohnen, 60 Tage gereift, erzeugen tiefe Schokoladennoten mit Karamelluntertönen. 20% der Einnahmen unterstützen die Gesundheitsinitiativen von La Fontana Della Fortuna.",
+            "it": "Eccellenza di tostatura scura con brillantezza d'oro 24k. Chicchi colombiani e brasiliani invecchiati per 60 giorni creano profonde note di cioccolato con sfumature di caramello. Il 20% dei ricavi sostiene le iniziative sanitarie di La Fontana Della Fortuna."
+        },
+        "clientName": "MYSTERIUM Collection",
+        "type": "dark roast",
+        "media": [
+            {
+                "url": ".\/uploads\/aparate.jpeg",
+                "type": "image",
+                "order": 1
+            },
+            {
+                "url": ".\/uploads\/aparate_aparate.jpeg",
+                "type": "image",
+                "order": 2
+            },
+            {
+                "url": ".\/uploads\/aparat_ultralux.jpeg",
+                "type": "image",
+                "order": 3
+            }
+        ],
+        "date": "2024-10-10T00:00:00.000Z",
+        "visible": true
+    }
+]

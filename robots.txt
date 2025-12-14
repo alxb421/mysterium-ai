@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ong.mysterium-ai.com/sitemap.xml
